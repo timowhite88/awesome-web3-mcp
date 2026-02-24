@@ -26,8 +26,8 @@ MCP is an open protocol that standardizes how apps connect with AI models. As mo
 ### Production-Ready
 
 - [Base-MCP](https://github.com/base/base-mcp) - A Model Context Protocol (MCP) server that provides onchain tools for AI applications like Claude Desktop and Cursor, allowing them to interact with the Base Network and Coinbase API.
-
 - [Farnsworth SYNTEK](https://github.com/timowhite88/farnsworth-syntek) - Agent memory engine with 7-layer recursive architecture, on-chain encrypted persistence via MCP. 10 tools for holographic recall, knowledge graph, context branching, and x402 micropayments.
+
 ### Experimental
 
 ## Documentation
